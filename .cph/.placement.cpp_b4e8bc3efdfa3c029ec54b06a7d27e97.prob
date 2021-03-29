@@ -1,0 +1,1 @@
+{"name":"Local: placement","url":"d:\\c++\\placement.cpp","tests":[{"id":1612589404616,"input":"8\n2 4 7 11 14 16 20 21\n31","output":"3 6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\c++\\placement.cpp","group":"local","local":true}

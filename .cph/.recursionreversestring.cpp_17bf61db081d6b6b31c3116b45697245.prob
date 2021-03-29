@@ -1,0 +1,1 @@
+{"name":"Local: recursionreversestring","url":"d:\\c++\\recursionreversestring.cpp","tests":[{"id":1613745034391,"input":"linux world","output":"dlrow xunil"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\c++\\recursionreversestring.cpp","group":"local","local":true}

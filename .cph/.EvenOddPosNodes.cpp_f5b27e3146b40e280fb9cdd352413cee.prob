@@ -1,0 +1,1 @@
+{"name":"Local: EvenOddPosNodes","url":"d:\\c++\\EvenOddPosNodes.cpp","tests":[{"id":1614846838281,"input":"1->2->3->4->5->6->7->NULL","output":"1->3->5->7->2->4->6->NULL"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\c++\\EvenOddPosNodes.cpp","group":"local","local":true}

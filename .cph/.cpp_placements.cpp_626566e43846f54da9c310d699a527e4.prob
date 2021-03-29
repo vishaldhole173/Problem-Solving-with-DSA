@@ -1,0 +1,1 @@
+{"name":"Local: cpp_placements","url":"d:\\c++\\cpp_placements.cpp","tests":[{"id":1611393517802,"input":"7\n4 -4 6 -6 10 -11 12","output":"22"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\c++\\cpp_placements.cpp","group":"local","local":true}

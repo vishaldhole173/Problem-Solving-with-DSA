@@ -1,0 +1,1 @@
+{"name":"Local: NoTimeToWait","url":"d:\\c++\\NoTimeToWait.cpp","tests":[{"id":1615206538922,"input":"2 5 3\n1 2","output":"YES"},{"id":1615206573713,"input":"2 6 3\n1 2","output":"NO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\c++\\NoTimeToWait.cpp","group":"local","local":true}

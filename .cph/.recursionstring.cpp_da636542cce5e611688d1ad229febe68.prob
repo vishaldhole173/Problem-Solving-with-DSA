@@ -1,0 +1,1 @@
+{"name":"Local: recursionstring","url":"d:\\c++\\recursionstring.cpp","tests":[{"id":1613742648916,"input":"linux world","output":"dlrow xunil"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\c++\\recursionstring.cpp","group":"local","local":true}

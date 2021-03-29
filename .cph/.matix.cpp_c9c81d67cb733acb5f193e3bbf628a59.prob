@@ -1,0 +1,1 @@
+{"name":"Local: matix","url":"d:\\c++\\matix.cpp","tests":[{"id":1612596136476,"input":"1 2 3\n4 5 6\n7 8 9","output":"1 4 7 \n2 5 8 \n3 6 9"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\c++\\matix.cpp","group":"local","local":true}

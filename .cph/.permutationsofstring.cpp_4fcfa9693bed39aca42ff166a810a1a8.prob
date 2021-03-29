@@ -1,0 +1,1 @@
+{"name":"Local: permutationsofstring","url":"d:\\c++\\permutationsofstring.cpp","tests":[{"id":1613112653191,"input":"AB","output":"AB\nBA"},{"id":1613112759840,"input":"ABC","output":"ABC\nACB\nBAC\nBCA\nCAB\nCBA"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\c++\\permutationsofstring.cpp","group":"local","local":true}

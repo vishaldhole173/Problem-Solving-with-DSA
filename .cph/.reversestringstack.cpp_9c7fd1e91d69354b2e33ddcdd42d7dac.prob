@@ -1,0 +1,1 @@
+{"name":"Local: reversestringstack","url":"d:\\c++\\reversestringstack.cpp","tests":[{"id":1613744733502,"input":"linux world","output":"dlrow xunil"},{"id":1615040082337,"input":"APFGMRZXIFPSXKOQDRRQJBBZ","output":"ZBBJQRRDQOKXSPFIXZRMGFPA"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\c++\\reversestringstack.cpp","group":"local","local":true}

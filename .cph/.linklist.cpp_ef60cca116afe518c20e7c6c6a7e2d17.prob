@@ -1,0 +1,1 @@
+{"name":"Local: linklist","url":"d:\\c++\\linklist.cpp","tests":[{"id":1614171287047,"input":"","output":"1->2->3->4->"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\c++\\linklist.cpp","group":"local","local":true}
